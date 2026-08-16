@@ -8,6 +8,9 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [Anon key](anon-key.md)
 - [Auth (Autenticación vs Autorización)](auth.md)
 
+## J
+- [JWT](jwt.md)
+
 ## S
 - [Service role key](service-role-key.md)
 - [SPA (Single Page Application)](spa.md)
