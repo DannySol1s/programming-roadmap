@@ -53,6 +53,22 @@ modulo/
 
 ---
 
+## 📖 Glosario de conceptos
+
+Además de los módulos por tecnología, el repositorio incluye un glosario transversal: términos y conceptos (seguridad, arquitectura, bases de datos, etc.) que aparecen en distintos proyectos y no pertenecen a un solo módulo.
+
+```text
+glosario/
+├── README.md       → índice alfabético de términos
+├── termino-1.md
+├── termino-2.md
+└── ...
+```
+
+Cada término se documenta en su propio archivo: categoría, proyecto donde se aprendió, definición, ejemplo real y enlaces a términos relacionados. Ver [glosario/README.md](glosario/README.md) para el índice completo.
+
+---
+
 ## 🛠️ Tecnologías
 
 A medida que avance en mi aprendizaje este repositorio incluirá contenido relacionado con:
