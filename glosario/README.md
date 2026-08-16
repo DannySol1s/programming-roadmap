@@ -8,6 +8,9 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [Anon key](anon-key.md)
 - [Auth (Autenticación vs Autorización)](auth.md)
 
+## G
+- [Gitleaks](gitleaks.md)
+
 ## J
 - [JWT](jwt.md)
 
