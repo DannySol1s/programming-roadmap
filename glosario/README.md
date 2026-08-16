@@ -10,6 +10,7 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [Auth (Autenticación vs Autorización)](auth.md)
 
 ## G
+- [GET](get.md)
 - [Gitleaks](gitleaks.md)
 
 ## J
