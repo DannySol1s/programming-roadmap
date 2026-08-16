@@ -18,5 +18,8 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [Service role key](service-role-key.md)
 - [SPA (Single Page Application)](spa.md)
 
+## U
+- [Untracked (Git)](untracked.md)
+
 ## V
 - [Verbos HTTP](verbos-http.md)
