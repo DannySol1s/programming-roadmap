@@ -8,6 +8,7 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [Anon key](anon-key.md)
 
 ## S
+- [Service role key](service-role-key.md)
 - [SPA (Single Page Application)](spa.md)
 
 ## V
