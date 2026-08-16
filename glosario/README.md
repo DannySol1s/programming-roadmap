@@ -6,3 +6,6 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 
 ## S
 - [SPA (Single Page Application)](spa.md)
+
+## V
+- [Verbos HTTP](verbos-http.md)
