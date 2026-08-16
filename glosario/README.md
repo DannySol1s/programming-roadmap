@@ -31,3 +31,4 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 
 ## V
 - [Verbos HTTP](verbos-http.md)
+- [Vuforia](vuforia.md)
