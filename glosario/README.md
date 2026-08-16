@@ -16,6 +16,9 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 ## J
 - [JWT](jwt.md)
 
+## P
+- [PUT](put.md)
+
 ## R
 - [RLS (Row Level Security)](rls.md)
 
