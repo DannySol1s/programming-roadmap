@@ -11,6 +11,9 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 ## J
 - [JWT](jwt.md)
 
+## R
+- [RLS (Row Level Security)](rls.md)
+
 ## S
 - [Service role key](service-role-key.md)
 - [SPA (Single Page Application)](spa.md)
