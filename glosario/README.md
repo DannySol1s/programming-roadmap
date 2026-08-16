@@ -9,6 +9,9 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [API](api.md)
 - [Auth (Autenticación vs Autorización)](auth.md)
 
+## D
+- [DELETE](delete.md)
+
 ## G
 - [GET](get.md)
 - [Gitleaks](gitleaks.md)
