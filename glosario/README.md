@@ -20,6 +20,7 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [JWT](jwt.md)
 
 ## P
+- [PATCH](patch.md)
 - [POST](post.md)
 - [PUT](put.md)
 
