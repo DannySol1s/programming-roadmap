@@ -21,6 +21,7 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 ## S
 - [Service role key](service-role-key.md)
 - [SPA (Single Page Application)](spa.md)
+- [Supabase](supabase.md)
 
 ## T
 - [Tracked (Git)](tracked.md)
