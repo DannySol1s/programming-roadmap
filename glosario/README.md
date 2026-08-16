@@ -4,6 +4,9 @@
 
 Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entradas.
 
+## A
+- [Anon key](anon-key.md)
+
 ## S
 - [SPA (Single Page Application)](spa.md)
 
