@@ -31,6 +31,7 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [RLS (Row Level Security)](rls.md)
 
 ## S
+- [Sanity](sanity.md)
 - [Service role key](service-role-key.md)
 - [SPA (Single Page Application)](spa.md)
 - [Supabase](supabase.md)
