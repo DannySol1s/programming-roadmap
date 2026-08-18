@@ -28,6 +28,7 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [PUT](put.md)
 
 ## R
+- [Render](render.md) — Plataforma PaaS para desplegar aplicaciones y APIs
 - [RLS (Row Level Security)](rls.md)
 
 ## S
@@ -45,4 +46,5 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 
 ## V
 - [Verbos HTTP](verbos-http.md)
+- [Vercel](vercel.md) — Plataforma especializada en frontend y Next.js
 - [Vuforia](vuforia.md)
