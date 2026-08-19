@@ -9,6 +9,9 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [API](api.md)
 - [Auth (Autenticación vs Autorización)](auth.md)
 
+## B
+- [Bun](bun.md)
+
 ## C
 - [CMS](cms.md)
 
@@ -18,6 +21,9 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 ## G
 - [GET](get.md)
 - [Gitleaks](gitleaks.md)
+
+## H
+- [Hono](hono.md)
 
 ## J
 - [JWT](jwt.md)
