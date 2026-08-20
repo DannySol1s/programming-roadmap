@@ -18,6 +18,9 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 ## D
 - [DELETE](delete.md)
 
+## E
+- [Expo](expo.md)
+
 ## G
 - [GET](get.md)
 - [Gitleaks](gitleaks.md)
