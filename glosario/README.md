@@ -57,4 +57,5 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 ## V
 - [Verbos HTTP](verbos-http.md)
 - [Vercel](vercel.md) — Plataforma especializada en frontend y Next.js
+- [Vitest](vitest.md) — Pruebas unitarias de piezas sueltas del frontend
 - [Vuforia](vuforia.md)
