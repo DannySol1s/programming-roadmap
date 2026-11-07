@@ -33,6 +33,7 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 
 ## P
 - [PATCH](patch.md)
+- [Playwright](playwright.md) — Pruebas end-to-end desde los ojos del usuario
 - [POST](post.md)
 - [PUT](put.md)
 
