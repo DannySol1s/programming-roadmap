@@ -17,6 +17,7 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 
 ## D
 - [DELETE](delete.md)
+- [DOMPurify](dompurify.md) — Sanitiza HTML externo para prevenir ataques XSS
 
 ## E
 - [Expo](expo.md)

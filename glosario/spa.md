@@ -21,3 +21,4 @@ En Finvia V2, "SvelteKit SPA" significa que SvelteKit compila a archivos estáti
 ## Relacionado
 - [Verbos HTTP](verbos-http.md)
 - [API](api.md)
+- [DOMPurify](dompurify.md)

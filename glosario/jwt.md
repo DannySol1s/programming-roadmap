@@ -31,5 +31,6 @@ Flujo en Finvia:
 
 ## Relacionado
 - [Auth](auth.md)
+- [DOMPurify](dompurify.md)
 - [RLS](rls.md)
 - [Supabase](supabase.md)
