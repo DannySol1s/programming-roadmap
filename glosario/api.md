@@ -14,3 +14,4 @@ El backend de Finvia expone una API REST (`/api/bot`, `/categorias`) que el fron
 - [UptimeRobot](uptimerobot.md)
 - [CMS](cms.md)
 - [Sanity](sanity.md)
+- [Stripe](stripe.md)

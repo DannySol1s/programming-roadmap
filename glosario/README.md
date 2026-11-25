@@ -46,6 +46,7 @@ Ver [CLAUDE.md](CLAUDE.md) para la convención de cómo se agregan nuevas entrad
 - [Sanity](sanity.md)
 - [Service role key](service-role-key.md)
 - [SPA (Single Page Application)](spa.md)
+- [Stripe](stripe.md) — Procesamiento de pagos con Checkout Sessions y Webhooks
 - [Supabase](supabase.md)
 
 ## T
